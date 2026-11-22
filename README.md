@@ -4,6 +4,8 @@ A multi-page website for a fictional travel agency. It promotes tour packages an
 
 Built with HTML and CSS as a diploma project at Republic Polytechnic.
 
+**Live site:** https://hui0w0.github.io/World-Xplore/L03/Index.html
+
 ## Pages
 
 - **Home** (`L03/Index.html`): a hero banner and featured deals, such as a Europe trip promotion, a Switzerland tour package and a 3-day, 2-night cruise.
@@ -24,7 +26,7 @@ HTML, CSS (keyframe animations) and inline SVG.
 
 ## Run it
 
-No build step is needed. Clone the repo and open `L03/Index.html` in a browser:
+View it at https://hui0w0.github.io/World-Xplore/L03/Index.html, or clone the repo and open `L03/Index.html` in a browser. No build step is needed.
 
 ```
 git clone https://github.com/hui0w0/World-Xplore.git
